@@ -34,7 +34,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-07-24": 727
+      "2024-07-24": 743
     }
   },
   {
@@ -61,11 +61,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/sandbox.bihealth.org.ico",
     "slug": "cloud-platforum-sandbox",
     "status": "up",
-    "uptime": "96.76%",
-    "uptimeDay": "96.76%",
-    "uptimeWeek": "96.76%",
-    "uptimeMonth": "96.76%",
-    "uptimeYear": "96.76%",
+    "uptime": "96.83%",
+    "uptimeDay": "96.83%",
+    "uptimeWeek": "96.83%",
+    "uptimeMonth": "96.83%",
+    "uptimeYear": "96.83%",
     "time": 1418,
     "timeDay": 1418,
     "timeWeek": 1418,
@@ -128,7 +128,7 @@
     "timeMonth": 502,
     "timeYear": 502,
     "dailyMinutesDown": {
-      "2024-07-24": 727
+      "2024-07-24": 743
     }
   },
   {
@@ -166,7 +166,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-07-24": 727
+      "2024-07-24": 743
     }
   },
   {
@@ -174,19 +174,19 @@
     "url": "https://digital.bihealth.org",
     "icon": "https://icons.duckduckgo.com/ip3/digital.bihealth.org.ico",
     "slug": "single-cell-shiny-server",
-    "status": "down",
-    "uptime": "99.97%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "99.97%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "99.97%",
-    "time": 607,
-    "timeDay": 607,
-    "timeWeek": 607,
-    "timeMonth": 607,
-    "timeYear": 607,
+    "status": "up",
+    "uptime": "97.86%",
+    "uptimeDay": "97.86%",
+    "uptimeWeek": "97.86%",
+    "uptimeMonth": "97.86%",
+    "uptimeYear": "97.86%",
+    "time": 571,
+    "timeDay": 571,
+    "timeWeek": 571,
+    "timeMonth": 571,
+    "timeYear": 571,
     "dailyMinutesDown": {
-      "2024-07-24": 0
+      "2024-07-24": 15
     }
   },
   {
@@ -206,7 +206,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-07-24": 727
+      "2024-07-24": 743
     }
   },
   {
