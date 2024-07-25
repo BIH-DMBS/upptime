@@ -34,7 +34,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-07-25": 733,
+      "2024-07-25": 767,
       "2024-07-24": 898
     }
   },
@@ -62,11 +62,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/sandbox.bihealth.org.ico",
     "slug": "cloud-platforum-sandbox",
     "status": "up",
-    "uptime": "98.58%",
+    "uptime": "98.61%",
     "uptimeDay": "98.41%",
-    "uptimeWeek": "98.58%",
-    "uptimeMonth": "98.58%",
-    "uptimeYear": "98.58%",
+    "uptimeWeek": "98.61%",
+    "uptimeMonth": "98.61%",
+    "uptimeYear": "98.61%",
     "time": 1663,
     "timeDay": 1688,
     "timeWeek": 1663,
@@ -81,19 +81,19 @@
     "url": "https://jhub.bihealth.org",
     "icon": "https://icons.duckduckgo.com/ip3/jhub.bihealth.org.ico",
     "slug": "environ-mental-jupyterhub",
-    "status": "down",
-    "uptime": "99.98%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.98%",
-    "time": 1546,
-    "timeDay": 1986,
-    "timeWeek": 1546,
-    "timeMonth": 1546,
-    "timeYear": 1546,
+    "status": "up",
+    "uptime": "97.91%",
+    "uptimeDay": "97.61%",
+    "uptimeWeek": "97.91%",
+    "uptimeMonth": "97.91%",
+    "uptimeYear": "97.91%",
+    "time": 1471,
+    "timeDay": 1653,
+    "timeWeek": 1471,
+    "timeMonth": 1471,
+    "timeYear": 1471,
     "dailyMinutesDown": {
-      "2024-07-25": 0
+      "2024-07-25": 34
     }
   },
   {
@@ -131,7 +131,7 @@
     "timeMonth": 738,
     "timeYear": 738,
     "dailyMinutesDown": {
-      "2024-07-25": 733,
+      "2024-07-25": 767,
       "2024-07-24": 898
     }
   },
@@ -170,7 +170,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-07-25": 733,
+      "2024-07-25": 767,
       "2024-07-24": 898
     }
   },
@@ -180,11 +180,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/digital.bihealth.org.ico",
     "slug": "single-cell-shiny-server",
     "status": "up",
-    "uptime": "99.04%",
+    "uptime": "99.06%",
     "uptimeDay": "98.93%",
-    "uptimeWeek": "99.04%",
-    "uptimeMonth": "99.04%",
-    "uptimeYear": "99.04%",
+    "uptimeWeek": "99.06%",
+    "uptimeMonth": "99.06%",
+    "uptimeYear": "99.06%",
     "time": 613,
     "timeDay": 616,
     "timeWeek": 613,
@@ -211,7 +211,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-07-25": 733,
+      "2024-07-25": 767,
       "2024-07-24": 898
     }
   },
