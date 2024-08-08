@@ -1,7 +1,7 @@
 url: https://sandbox.bihealth.org
-status: down
-code: 503
-responseTime: 2541
-lastUpdated: 2024-08-08T15:29:51.401Z
+status: up
+code: 200
+responseTime: 1449
+lastUpdated: 2024-08-08T17:44:00.130Z
 startTime: 2024-07-24T09:23:13.544Z
 generator: Upptime <https://github.com/upptime/upptime>
