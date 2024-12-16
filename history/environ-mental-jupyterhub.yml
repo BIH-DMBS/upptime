@@ -1,7 +1,7 @@
 url: https://jhub.bihealth.org
-status: up
-code: 200
-responseTime: 791
-lastUpdated: 2024-12-15T23:13:44.771Z
+status: down
+code: 503
+responseTime: 795
+lastUpdated: 2024-12-16T08:28:24.317Z
 startTime: 2024-07-24T09:23:15.436Z
 generator: Upptime <https://github.com/upptime/upptime>
