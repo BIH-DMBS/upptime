@@ -1,7 +1,7 @@
 url: https://digital.bihealth.org
-status: down
-code: 502
-responseTime: 500
-lastUpdated: 2025-01-05T23:14:00.002Z
+status: up
+code: 200
+responseTime: 1088
+lastUpdated: 2025-01-06T17:09:03.047Z
 startTime: 2024-07-24T09:23:35.848Z
 generator: Upptime <https://github.com/upptime/upptime>
