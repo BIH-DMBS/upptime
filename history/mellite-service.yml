@@ -1,7 +1,7 @@
 url: https://mellite.bihealth.org
-status: up
-code: 200
-responseTime: 945
-lastUpdated: 2026-03-17T23:28:15.491Z
+status: down
+code: 502
+responseTime: 19446
+lastUpdated: 2026-03-18T05:10:53.932Z
 startTime: 2024-07-24T09:23:10.061Z
 generator: Upptime <https://github.com/upptime/upptime>
