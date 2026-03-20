@@ -5,18 +5,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/psyshare.bihealth.org.ico",
     "slug": "psyshare-service",
     "status": "down",
-    "uptime": "33.78%",
+    "uptime": "33.76%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "7.96%",
     "uptimeYear": "0.00%",
-    "time": 2596,
+    "time": 2603,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 3977,
+    "timeYear": 3975,
     "dailyMinutesDown": {
-      "2026-03-19": 971,
+      "2026-03-20": 142,
+      "2026-03-19": 1440,
       "2026-03-18": 1440,
       "2026-03-17": 1440,
       "2026-03-16": 1440,
@@ -379,8 +380,7 @@
       "2025-03-24": 1440,
       "2025-03-23": 1440,
       "2025-03-22": 1440,
-      "2025-03-21": 1440,
-      "2025-03-20": 1440
+      "2025-03-21": 1440
     }
   },
   {
@@ -389,16 +389,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/mellite.bihealth.org.ico",
     "slug": "mellite-service",
     "status": "up",
-    "uptime": "80.17%",
-    "uptimeDay": "0.26%",
+    "uptime": "80.19%",
+    "uptimeDay": "42.72%",
     "uptimeWeek": "79.21%",
     "uptimeMonth": "46.87%",
     "uptimeYear": "78.27%",
     "time": 1231,
-    "timeDay": 2624,
-    "timeWeek": 3363,
+    "timeDay": 931,
+    "timeWeek": 3359,
     "timeMonth": 2309,
-    "timeYear": 1248,
+    "timeYear": 1247,
     "dailyMinutesDown": {
       "2026-03-19": 967,
       "2026-03-18": 1129,
@@ -494,18 +494,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/spacehack.bihealth.org.ico",
     "slug": "spacehack-service",
     "status": "down",
-    "uptime": "85.91%",
+    "uptime": "85.85%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "27.77%",
-    "uptimeYear": "83.99%",
-    "time": 1083,
+    "uptimeMonth": "26.37%",
+    "uptimeYear": "83.88%",
+    "time": 1081,
     "timeDay": 0,
     "timeWeek": 0,
-    "timeMonth": 1428,
+    "timeMonth": 1565,
     "timeYear": 1058,
     "dailyMinutesDown": {
-      "2026-03-19": 971,
+      "2026-03-20": 142,
+      "2026-03-19": 1440,
       "2026-03-18": 1440,
       "2026-03-17": 1440,
       "2026-03-16": 1440,
@@ -593,7 +594,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-03-19": 971,
+      "2026-03-20": 142,
+      "2026-03-19": 1440,
       "2026-03-18": 1440,
       "2026-03-17": 1440,
       "2026-03-16": 1440,
@@ -956,8 +958,7 @@
       "2025-03-24": 1440,
       "2025-03-23": 1440,
       "2025-03-22": 1440,
-      "2025-03-21": 1440,
-      "2025-03-20": 1440
+      "2025-03-21": 1440
     }
   },
   {
@@ -967,15 +968,15 @@
     "slug": "environ-mental-jupyterhub",
     "status": "up",
     "uptime": "89.79%",
-    "uptimeDay": "0.19%",
+    "uptimeDay": "42.65%",
     "uptimeWeek": "79.21%",
     "uptimeMonth": "88.76%",
-    "uptimeYear": "88.25%",
-    "time": 1045,
-    "timeDay": 1003,
-    "timeWeek": 946,
-    "timeMonth": 1314,
-    "timeYear": 1054,
+    "uptimeYear": "88.26%",
+    "time": 1046,
+    "timeDay": 1066,
+    "timeWeek": 950,
+    "timeMonth": 1326,
+    "timeYear": 1055,
     "dailyMinutesDown": {
       "2026-03-19": 968,
       "2026-03-18": 1128,
@@ -1042,18 +1043,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/environmental.bihealth.org.ico",
     "slug": "environ-mental-geo-app",
     "status": "down",
-    "uptime": "15.91%",
+    "uptime": "15.89%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "7.96%",
     "uptimeYear": "0.00%",
-    "time": 3491,
+    "time": 3461,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-03-19": 971,
+      "2026-03-20": 142,
+      "2026-03-19": 1440,
       "2026-03-18": 1440,
       "2026-03-17": 1440,
       "2026-03-16": 1440,
@@ -1416,8 +1418,7 @@
       "2025-03-24": 1440,
       "2025-03-23": 1440,
       "2025-03-22": 1440,
-      "2025-03-21": 1440,
-      "2025-03-20": 1440
+      "2025-03-21": 1440
     }
   },
   {
@@ -1437,7 +1438,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-03-19": 971,
+      "2026-03-20": 142,
+      "2026-03-19": 1440,
       "2026-03-18": 1440,
       "2026-03-17": 1440,
       "2026-03-16": 1440,
@@ -1800,8 +1802,7 @@
       "2025-03-24": 1440,
       "2025-03-23": 1440,
       "2025-03-22": 1440,
-      "2025-03-21": 1440,
-      "2025-03-20": 1440
+      "2025-03-21": 1440
     }
   },
   {
@@ -1810,18 +1811,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/espace-cloud.bihealth.org.ico",
     "slug": "espace-2cloud-jupyterhub",
     "status": "down",
-    "uptime": "76.70%",
+    "uptime": "76.65%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "79.20%",
+    "uptimeWeek": "73.13%",
     "uptimeMonth": "69.05%",
-    "uptimeYear": "66.91%",
-    "time": 1965,
+    "uptimeYear": "66.80%",
+    "time": 1957,
     "timeDay": 0,
-    "timeWeek": 923,
-    "timeMonth": 2032,
-    "timeYear": 1445,
+    "timeWeek": 935,
+    "timeMonth": 1893,
+    "timeYear": 1448,
     "dailyMinutesDown": {
-      "2026-03-19": 971,
+      "2026-03-20": 142,
+      "2026-03-19": 1440,
       "2026-03-18": 1126,
       "2026-02-27": 910,
       "2026-02-26": 1440,
@@ -1972,7 +1974,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-03-19": 971,
+      "2026-03-20": 142,
+      "2026-03-19": 1440,
       "2026-03-18": 1440,
       "2026-03-17": 1440,
       "2026-03-16": 1440,
@@ -2335,8 +2338,7 @@
       "2025-03-24": 1440,
       "2025-03-23": 1440,
       "2025-03-22": 1440,
-      "2025-03-21": 1440,
-      "2025-03-20": 1440
+      "2025-03-21": 1440
     }
   },
   {
@@ -2345,18 +2347,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/digital.bihealth.org.ico",
     "slug": "single-cell-shiny-server",
     "status": "down",
-    "uptime": "57.98%",
+    "uptime": "57.94%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "7.96%",
-    "uptimeYear": "40.11%",
-    "time": 845,
+    "uptimeYear": "39.99%",
+    "time": 846,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 869,
+    "timeYear": 867,
     "dailyMinutesDown": {
-      "2026-03-19": 971,
+      "2026-03-20": 142,
+      "2026-03-19": 1440,
       "2026-03-18": 1440,
       "2026-03-17": 1440,
       "2026-03-16": 1440,
@@ -2595,7 +2598,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-03-19": 971,
+      "2026-03-20": 142,
+      "2026-03-19": 1440,
       "2026-03-18": 1440,
       "2026-03-17": 1440,
       "2026-03-16": 1440,
@@ -2958,8 +2962,7 @@
       "2025-03-24": 1440,
       "2025-03-23": 1440,
       "2025-03-22": 1440,
-      "2025-03-21": 1440,
-      "2025-03-20": 1440
+      "2025-03-21": 1440
     }
   },
   {
@@ -2979,7 +2982,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-03-19": 971,
+      "2026-03-20": 142,
+      "2026-03-19": 1440,
       "2026-03-18": 1440,
       "2026-03-17": 1440,
       "2026-03-16": 1440,
@@ -3342,8 +3346,7 @@
       "2025-03-24": 1440,
       "2025-03-23": 1440,
       "2025-03-22": 1440,
-      "2025-03-21": 1440,
-      "2025-03-20": 1440
+      "2025-03-21": 1440
     }
   },
   {
